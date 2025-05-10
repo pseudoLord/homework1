@@ -1,0 +1,1 @@
+print("Repository link: https://github.com/pseudoLord/homework1")
